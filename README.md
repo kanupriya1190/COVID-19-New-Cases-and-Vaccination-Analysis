@@ -35,4 +35,4 @@ This project highlights how data visualization and automation can provide critic
 
 ---
 
-### [View the Dashboard](https://lookerstudio.google.com/reporting/251b5841-a2fa-4a9d-93e6-82aa4463bdb3)  
+### [View the Dashboard]([https://lookerstudio.google.com/reporting/251b5841-a2fa-4a9d-93e6-82aa4463bdb3](https://lookerstudio.google.com/reporting/251b5841-a2fa-4a9d-93e6-82aa4463bdb3))  
